@@ -49,7 +49,7 @@
 
 <!-- View Conter -->
 <div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevguruPandey&label=Profile%20views&color=0e75b6&style=flat" alt="DevguruPandey" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=DevguruPandey&label=Profile%20views&color=0e75b6&style=flat" alt="DevguruPandey" />
 </div>
 
 <!-- RAINBOW LINE BOT -->
