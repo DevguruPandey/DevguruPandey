@@ -13,7 +13,7 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = [''HTML','CSS',JavaScript','NextJs','NodeJs','TypeScript'];
+  languages  = [''HTML','CSS','JavaScript','NextJs','NodeJs','TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'NextJs'];
 }
